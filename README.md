@@ -8,9 +8,9 @@ CLIENT SPECIFICATIONS
 --
 * Last edited date (README/Git) : 3/8/2022 13:30 PST
 * Last edited date (CLIENT) :
-* README Version : 1.1
+* README Version : v1.1
 * Compatable Minecraft Version :  
-* Version : V0.0
+* Version : v0.0
 * Size : 
 
 HOW TO DOWNLOAD  
@@ -25,7 +25,7 @@ FEATURES
 
 UPCOMING FEATURES
 --
-V0.01
+v0.01
 * Add a basic GUI
 * Make Injector
 * Spots for widgets
