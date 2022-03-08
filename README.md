@@ -50,13 +50,13 @@ Submit a poll request on Git then go to <a href="https://discord.gg/HmZY74Gsta">
 FAQ
 --
 * IS IT SAFE?
-Yes, Absolutly! Dispite the .dll file being marked as a trojan its not. To put it simply a lot of malware uses the .dll file extention, and even though anyone can contribute to the project we scrutinize the code carefully to ensure no harmful products get into your device.
+<p>Yes, Absolutly! Dispite the .dll file being marked as a trojan its not. To put it simply a lot of malware uses the .dll file extention, and even though anyone can contribute to the project we scrutinize the code carefully to ensure no harmful products get into your device.</p>
 
 * I RESTARTED MY GAME AND THE CLIENT WASNT THERE WHAT HAPPENED?
-The problem with injectors is that once <a href = "https://www.minecraft.net/en-us/store/minecraft-windows10">Minecraft</a> is Restarted it will get rid of the injection. To Fix this simplily reinject the code. One of the goals for a future update its to make that process automatic, if you choose.
+<p>The problem with injectors is that once <a href = "https://www.minecraft.net/en-us/store/minecraft-windows10">Minecraft</a> is Restarted it will get rid of the injection. To Fix this simplily reinject the code. One of the goals for a future update its to make that process automatic, if you choose.</p>
 
 * I LEFT THIS CLIENT FOR A WHILE AND CAME BACK ONLY TO FIND IT NOT WORKING WHY?
-Check to make sure your updated to the latest <a href = "https://www.minecraft.net/en-us/store/minecraft-windows10">Minecraft</a> version and the latest Adiutor version. once done reload minecraft and reinject the code.
+<p>Check to make sure your updated to the latest <a href = "https://www.minecraft.net/en-us/store/minecraft-windows10">Minecraft</a> version and the latest Adiutor version. Once done reload minecraft and reinject the code.</p>
 
 LINKS 
 --
