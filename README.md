@@ -27,6 +27,7 @@ UPCOMING FEATURES
 --
 v0.01
 * Add a basic GUI
+* make setup.exe file
 * Make Injector
 * Spots for widgets
 * Add necessary base commands to get the project rolling
