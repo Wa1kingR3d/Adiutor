@@ -1,8 +1,12 @@
 # Adiutor
+<p>AS OF RIGHT NOW THIS REPOSITORY IS FOR STORING ALL FILES AFFILIATED WITH THE PROJECT, THEREFORE AT THIS TIME IS  NOT READY FOR DISTRIBUTION.</p>
+
+
+
+
 
 Hello ladies and gents! I present to you Adiutor! This is one of the first Bedrock dedicated technical clients that will further your development in the technical community. Some of the things that are Java chunk borders, Hit boxes, Schematics and much more! 
 
-<p>AS OF RIGHT NOW THIS REPOSITORY IS FOR STORING ALL FILES AFFILIATED WITH THE PROJECT, THEREFORE AT THIS TIME IS  NOT READY FOR DISTRIBUTION.</p>
 
 CLIENT SPECIFICATIONS 
 --
