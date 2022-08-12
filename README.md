@@ -1,10 +1,6 @@
 # Adiutor
 <p>AS OF RIGHT NOW THIS REPOSITORY IS FOR STORING ALL FILES AFFILIATED WITH THE PROJECT, THEREFORE AT THIS TIME IS  NOT READY FOR DISTRIBUTION.</p>
 
-
-
-
-
 Hello ladies and gents! I present to you Adiutor! This is one of the first Bedrock dedicated technical clients that will further your development in the technical community. Some of the things that are Java chunk borders, Hit boxes, Schematics and much more! 
 
 
@@ -19,7 +15,9 @@ CLIENT SPECIFICATIONS
 
 HOW TO DOWNLOAD  
 --
-<p>1 - Download the injector[Disclaimer above]</p>
+---READ DISCLAIMER---
+
+<p>1 - Download the injector</p>
 <p>2 - Download the .dll file</p>
 <p>3 - Open the injector and click "Inject", the game should reload and you should have the client injected.</p>
 
